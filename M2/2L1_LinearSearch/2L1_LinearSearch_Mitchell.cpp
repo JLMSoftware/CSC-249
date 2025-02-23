@@ -1,6 +1,6 @@
 /*
 CSC 249
-2L2_Linear Search
+2L1 Linear Search
 Justin Mitchell
 2/23/25
 */
