@@ -1,3 +1,10 @@
+/*
+CSC-249
+2L1-Linear Search
+Justin Mitchell
+2/23/2025
+*/
+
 #include <iostream>
 using namespace std;
 
