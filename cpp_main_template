@@ -1,0 +1,16 @@
+/*
+CSC-249
+ASSIGNMENT NAME
+Justin Mitchell
+DATE
+*/
+
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    cout << "Hello you!" << endl;
+
+}
