@@ -1,5 +1,10 @@
 
-
+/*
+CSC-249
+3T1 -Single Linked List
+Justin Mitchell
+3/6/25
+*/
 
 
 #include <iostream>
