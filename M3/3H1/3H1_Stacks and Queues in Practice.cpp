@@ -1,3 +1,12 @@
+/*
+CSC-249
+3H1_Stacks and Queues in Practice
+Justin Mitchell
+3/21/25
+*/
+
+
+
 #include <iostream>
 #include "Stack.h"
 #include "Queue.h"
